@@ -9,7 +9,7 @@ Extreme positioning signals in Euro FX, Crude Oil, and E-mini S&P 500 futures us
 ## Files
 - `cot_positioning_analysis.ipynb` - Full analysis with code, charts, and results
 - `results/` - All saved visualizations
-- `report/` - For in-depth insight into the project 
+- `report/` - For in-depth insight into the project. Download: 📄 [Download Full Report (PDF)](report/COT%20Project%20Report.pdf)
 ## How to Run
 1. Clone the repo
 2. Install dependencies: `pip install -r requirements.txt`
