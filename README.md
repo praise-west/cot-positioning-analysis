@@ -17,4 +17,4 @@ Extreme positioning signals in Euro FX, Crude Oil, and E-mini S&P 500 futures us
 
 Author: [Idowu Praise]
 Connect on LinkedIn:  www.linkedin.com/in/praise-idowu-1025ab342   
-Open an issue or DM on GitHub for questions!
+Open an issue or DM on GitHub for questions!!
